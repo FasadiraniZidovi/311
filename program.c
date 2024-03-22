@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-  printf("Dobar dan,kako ste\n");
+  printf("Dobar dan,kako ste\n")
+  printf("Dobar dan,kako ste\n")
 return 0;
 }
